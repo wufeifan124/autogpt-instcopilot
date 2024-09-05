@@ -44,7 +44,7 @@
     "next": "13.5.5",
     "next-auth": "^4.23.2",
     "next-i18next": "^13.3.0",
-    "nextjs-google-analytics": "^2.3.3",
+    "nextjs-google-analytics": "^2.3.7",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-i18next": "^12.3.1",
